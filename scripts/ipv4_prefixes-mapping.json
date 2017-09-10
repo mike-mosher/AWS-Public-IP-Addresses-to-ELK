@@ -1,0 +1,25 @@
+{
+  "ipv4_prefixes" : {
+    "mappings" : {
+      "ipv4_prefixes" : {
+        "properties" : {
+          "total_ip_addresses" : {
+            "type" : "long"
+          },
+          "cidr" : {
+            "type" : "integer"
+          },
+          "ip_prefix" : {
+            "type" : "keyword"
+          },
+          "region" : {
+            "type" : "keyword"
+          },
+          "service" : {
+            "type" : "keyword"
+          }
+        }
+      }
+    }
+  }
+}
