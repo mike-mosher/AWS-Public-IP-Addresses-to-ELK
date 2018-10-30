@@ -1,4 +1,4 @@
-elasticsearch==5.4.0
-netaddr==0.7.19
-requests==2.18.4
-urllib3==1.22
+elasticsearch
+netaddr
+requests
+urllib3
